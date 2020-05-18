@@ -101,7 +101,6 @@ ul {
 ul li {
   color: #ac5353;
   cursor: pointer;
-  position: relative;
   padding: 12px 8px 12px 40px;
   background: #eee;
   font-size: 18px;
