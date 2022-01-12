@@ -9,7 +9,7 @@ filelock==3.0.12
 gunicorn==20.0.4
 idna==2.9
 Pillow==7.1.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 pytz==2020.1
 requests==2.23.0
 six==1.14.0
